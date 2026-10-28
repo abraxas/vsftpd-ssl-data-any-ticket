@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/vsftpd-ssl-data-any-ticket">vsftpd-ssl-data-any-ticket</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/vsftpd-ssl-data-any-ticket"><strong>https://abraxaslabs.tech/research/vsftpd-ssl-data-any-ticket</strong></a>
+</p>
+
 
 # vsftpd-ssl-data-any-ticket
 
